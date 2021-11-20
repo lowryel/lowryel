@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lowryel
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Blackened development
+- 🌱 I’m currently learning Backened development
 - 💞️ I’m looking to collaborate on Python projects in Django
 - 📫 How to reach me Email: eugeneagbaglo@gmail.com
 
