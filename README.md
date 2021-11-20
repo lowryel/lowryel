@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lowryel
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Backened development
-- 💞️ I’m looking to collaborate on Python projects in Django
+- 👀 A Junior Web Developer (Python and Django)
+- 🌱 I’m currently looking for a job as a Junior Web Developer
+- 💞️ I’m looking for projects in Django, HTML, CSS, and Python
 - 📫 How to reach me Email: eugeneagbaglo@gmail.com
 
 <!---
