@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lowryel
-- 👀 A Junior Web Developer (Python and Django)
+- 👀 Web Developer (Python and Django)
 - 🌱 I’m currently looking for a job as a Junior Web Developer
 - 💞️ I’m looking for projects in Django, HTML, CSS, and Python
 - 📫 How to reach me Email: eugeneagbaglo@gmail.com
