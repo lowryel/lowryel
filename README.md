@@ -1,9 +1,13 @@
 - 👋 Hi, I’m Eugene Agbaglo
-- 👀 Backend Software Developer (Python and Django) and Cloud DevOps Engineer
-- I work with tools such as python, javascript, django, cloudformtaion for infrastructure provisioning, ansible for configuration management, circleci to automate workflow and prometheus for mponitoring software.
-- 👌 I also have experience working with html, css and bootstrap
-- 🌱 I’m currently looking for a job as a Junior Web Developer
-- 💞️ I’m looking for projects in Django, HTML, CSS, JavaScript and Python
+- 👀 Cloud DevOps Engineer
+- ⚙ I have project based experience with tools such as python, javascript, django
+- ⚙ cloudformtaion for infrastructure provisioning,
+- ⚙ ansible for configuration management,
+- ⚙ circleci to automate workflow and prometheus for mponitoring software.
+- 🔧 Containerizing of applications using Docker and deploying with kubernetes
+
+- 🌱 I’m currently looking for the role of a DevOps Engineer
+- 💞️ I’m looking forward to joining an organization that has a good devops culture to showcase my skills
 - 📫 How to reach me Email: eugeneagbaglo@gmail.com
 
 <!---
