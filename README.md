@@ -1,3 +1,4 @@
+[download.pdf](https://github.com/lowryel/lowryel/files/9446049/download.pdf)
 - 👋 Hi, I’m Eugene Agbaglo
 - 👀 Cloud DevOps Engineer
 - ⚙ I have project based experience with tools such as python, javascript, django
