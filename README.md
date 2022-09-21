@@ -17,5 +17,5 @@
 lowryel/lowryel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="{https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white}" />
+<img src="{https://camo.githubusercontent.com/3ff0ab300fb2314dc2b0ee8622e863fdab8bf079afc2d66dc9ec11c0defd2a44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726470726573732d3231373539423f7374796c653d666f722d7468652d6261646765266c6f676f3d776f72647072657373266c6f676f436f6c6f723d7768697465}" />
 ![image]({https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white})
