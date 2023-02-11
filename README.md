@@ -1,14 +1,14 @@
 ### I’m Eugene Agbaglo - Software Engineer ( Cloud DevOps and Backend Engineer )
 ---------------------------------------------------------------------------------
-* I have over 2 years experience in building projects with tools such as python, javascript, django, etc.
+* I have over 2 years experience in building projects with tools such as Python, Javascript, Django, etc.
 * I have 4 months experience working as a DevOps Engineer at Udacity where we built some amazing projects.
-* I have experience building projects with the following DevOps tools:
-* Terraform and Cloudformation as Infrastructure as code tools,
-* Ansible and CircleCI/Github Actions for configuration management, and Continuous Integration and Deployment
+* I have experience in building projects with the following DevOps tools:
+* Terraform and Cloudformation for Infrastructure provisioning,
+* Ansible and CircleCI/Github Actions for configuration management, Continuous Integration and Deployment
 * Prometheus for monitoring and logging
 * **Containerization and orchestration with Docker, Kubernetes, EKS, ECR, etc**
 * And AWS services like EC2, S3, Elastic Beanstalk, cloudfront, Security Groups, etc.
-* JavaScript, HTML, CSS, Bootstrap and other frontend tools.
+* I also use the following tools for frontend designs: HTML, CSS, Bootstrap and other frontend tools.
 --------------------------------------------------------------------------------------------
 * I’m looking forward to joining a team that has a good devops culture to showcase my skills
 * And to also grow with the organization.
