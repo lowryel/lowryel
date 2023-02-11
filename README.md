@@ -1,17 +1,18 @@
 ### I’m Eugene Agbaglo - Software Engineer ( Cloud DevOps and Backend Engineer )
 ---------------------------------------------------------------------------------
-* ⚙ I have project based experience with tools such as python, javascript, django
-* ⚙ Terraform and Cloudformation as Infrastructure as code tools,
-* ⚙ Ansible and CircleCI/Github Actions for configuration management, and Continuous Integration and Deployment
+* I have over 2 years experience in building projects with tools such as python, javascript, django, etc.
+* I have 4 months experience working as a DevOps Engineer at Udacity where we built some amazing projects.
+* I have experience building projects with the following DevOps tools:
+* Terraform and Cloudformation as Infrastructure as code tools,
+* Ansible and CircleCI/Github Actions for configuration management, and Continuous Integration and Deployment
 * Prometheus for monitoring and logging
-* **Containerization and orchestration with Docker and Kubernetes**
-* I also have experience in Backend web develoment with skills in Python, Django,
+* **Containerization and orchestration with Docker, Kubernetes, EKS, ECR, etc**
+* And AWS services like EC2, S3, Elastic Beanstalk, cloudfront, Security Groups, etc.
 * JavaScript, HTML, CSS, Bootstrap and other frontend tools.
-
-* I’m currently looking for DevOps Engineer roles
+--------------------------------------------------------------------------------------------
 * I’m looking forward to joining a team that has a good devops culture to showcase my skills
 * And to also grow with the organization.
-* **How to reach me Email: [emailto]ellowry09@gmail.com**
+* **How to reach me Email: ellowry09@gmail.com**
 
 <!---
 lowryel/lowryel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
