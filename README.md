@@ -4,7 +4,7 @@
 * ⚙ Terraform and Cloudformation as Infrastructure as code tools,
 * ⚙ Ansible and CircleCI/Github Actions for configuration management, and Continuous Integration and Deployment
 * Prometheus for monitoring and logging
-* **🔧 Containerization and orchestration with Docker and Kubernetes **
+* **Containerization and orchestration with Docker and Kubernetes**
 * I also have experience in Backend web develoment with skills in Python, Django,
 * JavaScript, HTML, CSS, Bootstrap and other frontend tools.
 
