@@ -1,7 +1,7 @@
 ### I’m Eugene Agbaglo - Software Engineer ( Cloud DevOps and Backend Engineer )
 ---------------------------------------------------------------------------------
-* **Motivated and resourceful Software Engineer with over 2 years experience as a Backend and**
-* **DevOps Engineer, building and delivering industry and cloud based solutions**
+* **Motivated and resourceful Software Engineer with extensive knowledge in Backend and**
+* **DevOps Engineering, building and delivering industry and cloud based solutions**
 * **I have experience in building projects with the following DevOps tools:**
 * **Terraform and Cloudformation for Infrastructure provisioning,**
 * **Ansible and CircleCI/Github Actions for configuration management, Continuous Integration and Deployment**
