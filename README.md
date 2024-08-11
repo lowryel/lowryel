@@ -8,7 +8,7 @@
 * **Prometheus for monitoring and logging**
 * **Containerization and orchestration with Docker, Kubernetes, EKS, ECR, ECS, etc**
 * **And AWS services like EC2, S3, Elastic Beanstalk, cloudfront, Security Groups, etc.**
-* 
+* **Languages and frameworks: Python, Golang, C#, Django, Angular, .NET Core**
 --------------------------------------------------------------------------------------------
 * *I’m looking forward to joining a team that has a good devops culture to showcase my skills*
 * *And to also grow with the organization.*
